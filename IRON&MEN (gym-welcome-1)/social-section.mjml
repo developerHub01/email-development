@@ -1,0 +1,15 @@
+<mj-section padding="5px">
+ 	<mj-column vertical-align="middle">
+ 		<mj-social font-size="15px" icon-size="35px" mode="horizontal">
+    	<mj-social-element background-color="transparent" name="facebook" href="#" src="https://i.ibb.co/chk24SNz/facebook.png"></mj-social-element>
+      <mj-social-element background-color="transparent" name="instagram" href="#" src="https://i.ibb.co/RkXZ0gC3/instagram.png"></mj-social-element>
+      <mj-social-element background-color="transparent" name="whatsapp" href="#" src="https://i.ibb.co/nN7BtKkS/whatsapp.png"></mj-social-element>
+      <mj-social-element background-color="transparent" name="youtube" href="#" src="https://i.ibb.co/gMwFfWw7/youtube.png"></mj-social-element>
+      <mj-social-element background-color="transparent" name="website" href="#" src="https://i.ibb.co/7N8xzDH2/website.png"></mj-social-element>
+    </mj-social>
+  </mj-column>
+</mj-section>
+
+
+
+

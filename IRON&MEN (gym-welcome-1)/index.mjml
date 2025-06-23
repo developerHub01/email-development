@@ -1,0 +1,46 @@
+<mjml>
+	<mj-head>
+    <mj-font name="Oswald" href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" />
+    <mj-attributes>
+    	<mj-button align="right" />
+    </mj-attributes>
+    <mj-style>
+      .hide-on-mobile {
+      	display: none !important;
+      }
+      .hide-on-desktop {
+      	display: block !important;
+      } 
+      .fixed-img-container img {
+    		object-fit: cover !important;
+    		width: 100% !important;
+  		}
+    	@media only screen and (min-width: 481px){
+      	.hide-on-mobile {
+     			display: block !important;
+      	} 
+ 				.hide-on-desktop {
+      		display: none !important;
+      	}	
+      	.responsive-text-right *{
+      		text-align: right !important;
+      		margin-left: auto;
+        }
+        .responsive-divider-right p {
+       		margin: 0 !important;
+      		margin-left: auto !important;	
+      	}
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+ 		<mj-include path="./header.mjml" />
+  	<mj-include path="./banner.mjml" />
+		<mj-include path="./benefits.mjml" />
+    <mj-include path="./gallery.mjml" />
+    <mj-include path="./testimonial.mjml" />
+    <mj-include path="./app-section.mjml" />
+    <mj-include path="./footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,20 @@
+<mj-section background-url="https://i.ibb.co/ds5ksHjP/bg.jpg" background-repeat="no-repeat" background-size="cover" background-color="#f0f0f0">
+	<mj-column width="30%">
+  </mj-column>
+  <mj-column width="70%">
+    <mj-spacer height="40px" />
+    <mj-text font-size="35px" color="#FFFFFF" font-weight="800" line-height="1.5" letter-spacing="1.2px" css-class="responsive-text-right" align="center" font-family="Oswald, Arial, Helvetica, sans-serif">
+    WELCOME TO THE IRON&MEN
+    </mj-text>
+    <mj-divider padding-top="0px" border-color="#fff" width="85%" css-class="responsive-divider-right" />
+   <mj-divider padding-top="0px" border-color="#fff" width="50%" css-class="responsive-divider-right" />
+    <mj-text color="#DFDFDF" font-size="16px" font-weight="300" css-class="responsive-text-right" align="center" font-family="Roboto, Verdana, Arial, sans-serif">
+    Your transformation starts now.
+    </mj-text>
+    <mj-spacer height="16px" />
+		<mj-button css-class="responsive-text-right" href="#" align="center" color="#fff" background-color="transparent" border="2px solid #fff" border-left="none" border-right="none" border-radius="0" text-transform="uppercase" font-weight="600" font-family="Roboto, Arial, Helvetica, sans-serif">
+      Book Your First Class
+    </mj-button>
+    <mj-spacer height="40px" />
+  </mj-column>
+</mj-section>
