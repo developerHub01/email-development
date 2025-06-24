@@ -19,7 +19,7 @@
   	<mj-column width="65%" padding="15px 10px">
       <mj-image src="https://i.ibb.co/Vsp29Ft/quote.png" width="30px" height="30px" align="left" alt="quote" padding="0" padding-bottom="5px" />
       <mj-text padding-top="5px" padding-left="25px" color="#f0f0f0" letter-spacing="0.15px" font-style="italic" font-size="16px" line-height="1.4" font-family="Georgia, serif">
-      	“Joining The Forge changed my life. 
+      	“Joining The Iron&Men changed my life. 
 I lost 10kg and gained a second family.”
       </mj-text>
       <mj-divider border-width="1.5px" width="80px" align="left" border-color="#f0f0f0" padding-top="0" padding-bottom="0" />
