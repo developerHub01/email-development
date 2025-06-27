@@ -4,4 +4,4 @@
 
 -----------------------------
 
-![Gym-welcome-email](./assets/preview/Travel-promotional-email.png)
+![WANDERMORE TOURS travel](./assets/preview/Travel-promotional-email.png)
