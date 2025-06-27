@@ -1,0 +1,12 @@
+<mj-wrapper padding="20px" background-color="#FFF8F0">
+ 	<mj-section background-url="https://i.ibb.co/dJKZ7YCH/cta-section-bg.png" background-repeat="no-repeat" background-size="cover" border-radius="10px" padding="40px 20px">
+ 		<mj-column>
+			<mj-text align="center" font-size="35px" font-weight="bold" color="#FFF8F0" line-height="1.4">
+        Only
+        <span style="color: #FF6F00;"><b><u>$599</u></b></span>
+        / person</mj-text>						
+      <mj-text align="center" font-size="20px" font-weight="semi-bold" color="#FFF8F0" padding-bottom="15px" line-height="1.4">Offer valid till: July 15th</mj-text>
+      <mj-button inner-padding="10px 25px" border-radius="30px" background-color="#FF6F00" color="#FFF8F0" text-transform="uppercase" font-size="16px">VIEW ITINERARY</mj-button>
+ 		</mj-column>
+ 	</mj-section>
+</mj-wrapper>

@@ -1,0 +1,34 @@
+<mjml>
+  <mj-head>
+    <mj-title>Bali vacation deals inside! Book your dream trip now</mj-title>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" />
+    <mj-attributes>
+ 			<mj-all font-family="Poppins, Helvetica, Arial, sans-serif" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      *[class~=hide_on_desktop] {
+     			display: none !important;
+      }
+    </mj-style>
+  	<mj-style>
+      @media only screen and (max-width: 480px) {
+      	*[class~=hide_on_mobile] {
+     				display: none !important;
+      	}
+      	*[class~=hide_on_desktop] {
+     				display: block !important;
+      	}
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-include path="./header.mjml" />
+    <mj-include path="./banner.mjml" />
+    <mj-include path="./about-us.mjml" />
+    <mj-include path="./services.mjml" />
+    <mj-include path="./price.mjml" />
+    <mj-include path="./gallery.mjml" />
+    <mj-include path="./night-show.mjml" />
+    <mj-include path="./footer.mjml" />
+  </mj-body>
+</mjml>

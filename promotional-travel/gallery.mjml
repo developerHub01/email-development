@@ -1,0 +1,15 @@
+<mj-wrapper background-color="#FFF8F0">
+ 	<mj-section>
+ 		<mj-column>
+			<mj-text align="center" font-size="22px" font-weight="bold" color="#333333" text-transform="uppercase" line-height="1.5">
+     		A snap of our resort
+    	</mj-text>
+     	<mj-image src="https://i.ibb.co/21xcMN1J/divider.png" width="180px" padding="0" />
+ 		</mj-column>
+ 	</mj-section>
+ 	<mj-section>
+ 		<mj-column>
+			<mj-image src="https://i.ibb.co/gFMW1wCv/gallery.png" alt="gallery" />
+ 		</mj-column>
+ 	</mj-section>
+</mj-wrapper>

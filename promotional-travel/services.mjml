@@ -1,0 +1,39 @@
+<mj-wrapper background-color="#FFF8F0">
+ 	<mj-section>
+ 		<mj-column>
+			<mj-text align="center" font-size="22px" font-weight="bold" color="#333333" text-transform="uppercase" line-height="1.5">
+      	What We Offer
+    	</mj-text>
+      <mj-image src="https://i.ibb.co/21xcMN1J/divider.png" width="180px" padding="0" />
+  	</mj-column>
+ 	</mj-section>
+ 	<mj-section>
+ 		<mj-column padding="5px">
+  		<mj-image src="https://i.ibb.co/cSHYkGWB/resort.png" align="center" width="200px" border="5px solid #FF6F00" border-radius="50%" />
+    	<mj-text font-size="20px" font-weight="semi-bold" color="#333333" align="center">
+      	Resort Stay
+    	</mj-text>
+    	<mj-text color="#666666" align="center" padding-bottom="0">
+    		5 nights stay
+    	</mj-text>
+  	</mj-column>
+    <mj-column padding="5px">
+  		<mj-image src="https://i.ibb.co/4ZnD75km/meal.png" width="180px" width="200px" border="5px solid #FF6F00" border-radius="50%" />
+    	<mj-text font-size="20px" font-weight="semi-bold" color="#333333" align="center">
+      	Free Meals
+    	</mj-text>
+    	<mj-text color="#666666" align="center" padding-bottom="0">
+    		All inclusive
+    	</mj-text>
+  	</mj-column>
+    <mj-column padding="5px">
+  		<mj-image src="https://i.ibb.co/B5zQVLMv/airport-pickup.png" width="180px" width="200px" border="5px solid #FF6F00" border-radius="50%" />
+    	<mj-text font-size="20px" font-weight="semi-bold" color="#333333" align="center">
+      	Airport Pickup
+    	</mj-text>
+    	<mj-text color="#666666" align="center" padding-bottom="0">
+    		Both ways
+    	</mj-text>
+  	</mj-column>
+ 	</mj-section>	
+</mj-wrapper>

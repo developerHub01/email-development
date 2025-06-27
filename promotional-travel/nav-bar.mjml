@@ -1,0 +1,14 @@
+<mj-section background-color="#FFF8F0"  border-radius="10px" padding="0">
+  <mj-column>
+    <mj-navbar base-url="#">
+      <mj-navbar-link href="#" color="#FF6F00" text-transform="capitalize" padding="10px" font-weight="600">Home</mj-navbar-link>
+      <mj-navbar-link href="#" color="#FF6F00" text-transform="capitalize"padding="10px" font-weight="600">Packages</mj-navbar-link>
+      <mj-navbar-link href="#" color="#FF6F00" text-transform="capitalize"padding="10px" font-weight="600">Book Now</mj-navbar-link>
+    </mj-navbar>
+  </mj-column>
+</mj-section>
+<mj-section padding="0">
+  <mj-column>
+    <mj-spacer height="10px" />
+  </mj-column>
+</mj-section>

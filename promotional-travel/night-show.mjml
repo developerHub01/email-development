@@ -1,0 +1,15 @@
+<mj-wrapper background-color="#FFF8F0">
+ 	<mj-section>
+ 		<mj-column>
+			<mj-text align="center" font-size="22px" font-weight="bold" color="#333333" text-transform="uppercase" line-height="1.5">
+     		Night Show
+    	</mj-text>
+     	<mj-image src="https://i.ibb.co/21xcMN1J/divider.png" width="180px" padding="0" />
+ 		</mj-column>
+ 	</mj-section>
+ 	<mj-section>
+ 		<mj-column>
+			<mj-image href="#" src="https://i.ibb.co/r2fZVbGH/night-show.png" alt="night show" border-radius="10px" />
+ 		</mj-column>
+ 	</mj-section>
+</mj-wrapper>
