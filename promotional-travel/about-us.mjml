@@ -1,4 +1,4 @@
-<mj-wrapper background-color="#FFF8F0">
+<mj-wrapper background-color="#FFF8F0" padding="20px">
  	<mj-section>
  		<mj-column>
 			<mj-text align="center" font-size="22px" font-weight="bold" color="#333333" text-transform="uppercase" line-height="1.5">
@@ -7,7 +7,7 @@
       <mj-image src="https://i.ibb.co/21xcMN1J/divider.png" width="180px" padding="0" />
   	</mj-column>
  	</mj-section>
-  <mj-section padding="0">
+  <mj-section padding-top="10px" padding-bottom="0">
     <mj-group>
  			<mj-column padding="5px">
   			<mj-image src="https://i.ibb.co/6R5TVk6x/about-us-resort.png" fluid-on-mobile="true" padding="0" border-radius="10px" />

@@ -7,7 +7,7 @@
      	<mj-image src="https://i.ibb.co/21xcMN1J/divider.png" width="180px" padding="0" />
  		</mj-column>
  	</mj-section>
- 	<mj-section>
+ 	<mj-section padding-top="10px">
  		<mj-column>
 			<mj-image href="#" src="https://i.ibb.co/r2fZVbGH/night-show.png" alt="night show" border-radius="10px" />
  		</mj-column>

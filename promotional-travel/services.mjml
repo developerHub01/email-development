@@ -7,7 +7,7 @@
       <mj-image src="https://i.ibb.co/21xcMN1J/divider.png" width="180px" padding="0" />
   	</mj-column>
  	</mj-section>
- 	<mj-section>
+ 	<mj-section padding-top="10px">
  		<mj-column padding="5px">
   		<mj-image src="https://i.ibb.co/cSHYkGWB/resort.png" align="center" width="200px" border="5px solid #FF6F00" border-radius="50%" />
     	<mj-text font-size="20px" font-weight="semi-bold" color="#333333" align="center">
