@@ -1,0 +1,44 @@
+<mj-wrapper background-color="#010301">
+ 	<mj-section background-color="#010301">
+ 		<mj-column vertical-align="middle">
+     	<mj-image src="https://i.ibb.co/Zz3jkZYJ/watch-1.png" width="300px" />
+ 		</mj-column>
+  	<mj-column vertical-align="middle">
+    	<mj-image src="https://i.ibb.co/gZ35rGXf/50.png" width="120px" align="left" padding-bottom="10px" />
+  		<mj-text font-size="20px" color="#F0F0F0" font-weight="bold" align="left">
+      Classic Noir
+    	</mj-text>
+    	<mj-text color="#DFDFDF" line-height="1.7" align="left">Timeless black elegance — perfect for your sharp days and bold nights.</mj-text>
+    	<mj-image src="https://i.ibb.co/Kz2hxWWL/buy-now.png" width="120px" align="left" href="#" />
+  	</mj-column>
+ 	</mj-section>
+
+ 	<mj-section direction="rtl" background-color="#010301">
+ 		<mj-column vertical-align="middle">
+     	<mj-image src="https://i.ibb.co/Gfq0vkCN/watch-2.png" width="300px" />
+ 		</mj-column>
+  	<mj-column vertical-align="middle">
+    	<mj-image src="https://i.ibb.co/jPcQgb61/70.png" width="120px" align="left" padding-bottom="10px" />
+  		<mj-text font-size="20px" color="#F0F0F0" font-weight="bold" align="left">
+      Gold Heritage
+    	</mj-text>
+    	<mj-text color="#DFDFDF" line-height="1.7" align="left">Vintage luxury that never goes out of style. Make every second golden.</mj-text>
+    	<mj-image src="https://i.ibb.co/Kz2hxWWL/buy-now.png" width="120px" align="left" href="#" />
+  	</mj-column>
+ 	</mj-section>
+
+
+ 	<mj-section background-color="#010301">
+ 		<mj-column vertical-align="middle">
+     	<mj-image src="https://i.ibb.co/67BHrwMf/watch-3.png" width="300px" />
+ 		</mj-column>
+  	<mj-column vertical-align="middle">
+    	<mj-image src="https://i.ibb.co/d0z1sc7B/80.png" width="120px" align="left" padding-bottom="10px" />
+  		<mj-text font-size="20px" color="#F0F0F0" font-weight="bold" align="left">
+      Silver Edge
+    	</mj-text>
+    	<mj-text color="#DFDFDF" line-height="1.7" align="left">Clean. Confident. Modern. A statement that works from boardroom to brunch.  	</mj-text>
+    	<mj-image src="https://i.ibb.co/Kz2hxWWL/buy-now.png" width="120px" align="left" href="#" />
+  	</mj-column>
+ 	</mj-section>
+</mj-wrapper>

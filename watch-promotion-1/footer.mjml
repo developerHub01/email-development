@@ -1,0 +1,32 @@
+<mj-wrapper background-color="#010301">
+ 	<mj-section background-color="#010301" padding-bottom="10px">
+ 		<mj-column width="380px">
+			<mj-text font-size="14px" align="center" line-height="1.5" color="#DFDFDF">
+    	&copy; Aurex Watches. All rights reserved.
+      	</br>
+    	You’re receiving this email because you subscribed our site.
+      <a href="#" style="color:#F0F0F0"><b>Unsubscribe</b></a>
+    	</mj-text>
+  	</mj-column>
+ 	</mj-section>
+
+
+  <mj-section padding="0" background-color="#010301">
+    <mj-column>
+      <mj-include path="./divider.mjml" />
+    </mj-column>
+ 	</mj-section>
+
+
+ 	<mj-section background-color="#010301" padding="5px">
+    <mj-column>
+    	 <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0">
+          <mj-social-element name="facebook" href="#" src="https://i.ibb.co/Xf8bXB70/facebook.png" background-color="transparent" />
+         	<mj-social-element name="instagram" href="#" src="https://i.ibb.co/q3Pc8D12/instagram.png" background-color="transparent" />
+         	<mj-social-element name="twitter" href="#" src="https://i.ibb.co/nMJCD8dj/twitter.png" background-color="transparent" />
+         	<mj-social-element name="linkedin" href="#" src="https://i.ibb.co/cKzXXkgF/linkedin.png" background-color="transparent" />
+         	<mj-social-element name="youtube" href="#" src="https://i.ibb.co/TBvyTDgX/youtube.png" background-color="transparent" />
+        </mj-social>
+    </mj-column>					
+ 	</mj-section>
+</mj-wrapper>

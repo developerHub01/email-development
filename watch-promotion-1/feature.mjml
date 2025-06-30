@@ -1,0 +1,19 @@
+<mj-hero background-url= "https://i.ibb.co/3Yk3hjv9/feature.png"
+      background-color="#2a3448"
+      mode="fluid-height"
+ 			padding="100px 0px"
+ 			background-width="600px"
+      background-height="300px"
+>
+ 	<mj-text
+        padding="20px"
+        color="#F0F0F0"
+        font-family="Helvetica"
+        align="center"
+        font-size="20px"
+        line-height="45px"
+        font-weight="900"
+>
+    This offer is valid till the end of this month.
+ 	</mj-text>
+</mj-hero>

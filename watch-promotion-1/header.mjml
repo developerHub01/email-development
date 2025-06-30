@@ -1,0 +1,5 @@
+<mj-section background-color="#010301" padding="10px" padding-top="15px">
+ 	<mj-column>
+    <mj-image href="#" src="https://i.ibb.co/kgvpbtT3/logo.png" width="210px" />
+ 	</mj-column>
+</mj-section>

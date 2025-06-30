@@ -1,0 +1,31 @@
+<mj-wrapper padding="20px" background-color="#010301">
+  <mj-section padding="0" background-color="#010301">
+    <mj-column>
+      <mj-include path="./divider.mjml" />
+    </mj-column>
+ 	</mj-section>
+  
+  
+  <mj-section background-color="#010301" padding-top="10px" padding-bottom="10px">
+ 		<mj-column width="450px">
+			<mj-text align="center" color="#F0F0F0" font-size="20px" font-weight="bold">Hey [FirstName]</mj-text>
+    	<mj-text align="center" color="#DFDFDF" line-height="1.7" font-weight="regular" padding-bottom="1.5px">
+      Ready to elevate your style? </br>
+    As one of our exclusive members, you’re getting up to 80% off our signature timepieces — just for you.</mj-text>
+  		<mj-text align="center" color="#DFDFDF" line-height="1.7" font-weight="regular" padding-bottom="5px">
+Use your <span style="background: #F0F0F0; display: inline-block; color: #010301; padding: 0 5px; border-radius: 2px; font-weight: bold;">special coupon: GET-50-80</span></br>
+But hurry, the offer won’t tick forever!
+    	</mj-text>
+ 			<mj-text align="center" color="#F0F0F0" line-height="1.7" font-weight="regular">
+  		<b>— Team Aurex</b>
+ 			</mj-text>
+ 		</mj-column>
+ 	</mj-section>
+  
+  
+  <mj-section padding="0" background-color="#010301">
+  	<mj-column>
+ 			<mj-include path="./divider.mjml" />
+    </mj-column>
+ 	</mj-section>
+</mj-wrapper>

@@ -1,0 +1,9 @@
+<mj-wrapper padding="0">
+  <mj-include path="./header.mjml" />
+ 	
+  <mj-section padding="0" background-color="#010301">
+ 		<mj-column>
+			<mj-image src="https://i.ibb.co/mscz7gx/banner.png" padding="0" />
+  	</mj-column>
+ 	</mj-section>
+</mj-wrapper>

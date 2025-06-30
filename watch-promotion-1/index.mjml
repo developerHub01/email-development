@@ -1,0 +1,18 @@
+<mjml>
+  <mj-head>
+		<mj-font name="Roboto"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"/>
+    <mj-attributes>
+      <mj-text align="center" color="#555" font-family="Roboto" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#010301">
+    <mj-include path="./banner.mjml" />
+    <mj-include path="./about.mjml" />
+    <mj-include path="./watches.mjml" />
+    <mj-include path="./feature.mjml" />
+    <mj-include path="./footer.mjml" />
+  </mj-body>
+</mjml>
